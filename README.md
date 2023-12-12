@@ -1,4 +1,5 @@
 # homework5
+...
 1  Входим как root sudo su
 2  Просмотр устройств lsblk
 3  Создание 4 raid mirror массивов по 2 устройства в каждом
@@ -33,4 +34,4 @@
    cat /otus/test/task1/file_mess/secret_message
 
    Секретное слово: ссылка на курс https://otus.ru/lessons/linux-hl/
-
+...
