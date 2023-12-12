@@ -32,5 +32,5 @@
 17 Просмотр содержания найденного файла
    cat /otus/test/task1/file_mess/secret_message
 
-   Ссылка на курс https://otus.ru/lessons/linux-hl/
+   Секретное слово: ссылка на курс https://otus.ru/lessons/linux-hl/
 
